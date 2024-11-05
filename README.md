@@ -27,3 +27,19 @@ A simple and intuitive web application designed to help users track their expens
 **3)Database: SQL Server (managed through SQL Server Management Studio) 💾**
 
 **4)Data Visualization: Charting library (Syncfusion) 📊**
+
+
+## Setup Instructions
+
+### Prerequisites
+- Visual Studio or Visual Studio Code
+- .NET SDK
+- SQL Server
+- SQL Server Management Studio
+
+### Steps
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/MandiniJayaratne/ExpenseTracker.git
+   cd expense-tracker
