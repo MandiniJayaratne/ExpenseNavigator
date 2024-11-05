@@ -1,6 +1,6 @@
-# Expense Tracker Web App 🚀
+# Expense Navigator Web App 🚀
 
-A simple and intuitive web application designed to help users track their expenses, manage their personal finances, and gain insights into their spending habits. This Expense Tracker allows users to log, categorize, and analyze their expenses efficiently.
+A simple and intuitive web application designed to help users track their expenses, manage their personal finances, and gain insights into their spending habits. This Expense Navigator allows users to log, categorize, and analyze their expenses efficiently.
 
 ## Features✨
 
@@ -41,5 +41,5 @@ A simple and intuitive web application designed to help users track their expens
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MandiniJayaratne/ExpenseTracker.git
-   cd expense-tracker
+   git clone https://github.com/MandiniJayaratne/ExpenseNavigator.git
+   
